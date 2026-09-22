@@ -1,2 +1,3 @@
-# kiln-room
-Kiln — public writing floor with hourly editions
+# Kiln
+
+A public writing floor. Private drafts stay in the studio. Mark a piece public and it appears for everyone.
